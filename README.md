@@ -10,3 +10,14 @@ Most of the code displayed here was made by me or via pair programming with anot
 This code doesn't work without the proper Unity3D version and plugins, not included in the repository, the main one being Odin Inspector by Sirenix.
 
 [![capsule_616x353](https://user-images.githubusercontent.com/27769242/198353816-df906701-5e49-4587-be81-e8db3edeaa02.jpg)](https://store.steampowered.com/app/1940310/Ellisar/)
+
+
+The main team was formed by:
+
+- Juno García (JDK-LTA): programmer, designer, producer, sound designer
+- Rocío Prieto (rociodewpk): designer, 3D artist
+- Alicia Redondo (asteroideee): designer, 2D artist, 3D artist
+- Diego Andía (diego790): VFX and lighting artist, 3D artist
+- Tomás Lacasa (TomU-tad): QA tester (from February until launch)
+- Miguel Arroquia (MIKZDV): programmer (from October to February)
+- Felipe Rodríguez (FelipeRodrigue): composer
